@@ -31,8 +31,7 @@ g++ -std=c++11 main.cpp -o adder8bit
 
 # Chạy chương trình
 ./adder8bit
-=================== AUTOMATED TESTS ===================
+---- AUTOMATED TESTS ----
 [Test 2: 200 + 100]
 A = 200 (11001000) | B = 100 (01100100)
 Result =  44 (00101100) | Overflow: YES
---------------------------------------------------------
