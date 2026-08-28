@@ -4,7 +4,7 @@ Chương trình mô phỏng bộ cộng 8-bit không dấu bằng C++, hỗ tr�
 
 ---
 
-## 🚀 Tính năng chính (Features)
+## Tính năng chính (Features)
 
 * Cộng 2 số nguyên không dấu trong dải từ $0 \rightarrow 255$.
 * Tự động chuyển đổi số thập phân sang chuỗi nhị phân 8-bit.
@@ -14,7 +14,7 @@ Chương trình mô phỏng bộ cộng 8-bit không dấu bằng C++, hỗ tr�
 
 ---
 
-## 🛠️ Kiến thức & Công nghệ (Concepts Learned)
+## Kiến thức & Công nghệ (Concepts Learned)
 
 * **Ngôn ngữ:** C++ (C++11 trở lên).
 * **OOP (Lập trình hướng đối tượng):** Đóng gói thuộc tính (`private`) và phương thức (`public`), khởi tạo Constructor với danh sách gán (Initializer List).
@@ -23,7 +23,7 @@ Chương trình mô phỏng bộ cộng 8-bit không dấu bằng C++, hỗ tr�
 
 ---
 
-## 💻 Cách biên dịch và chạy (How to Run)
+## Cách biên dịch và chạy (How to Run)
 
 ```bash
 # Biên dịch chương trình
